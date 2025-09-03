@@ -1,6 +1,6 @@
 # Open Khmer Fonts's Homebrew Tap
 
-[![Homebrew Doctor][github-ci-brew-badge]][github-ci-brew-url]
+[![brew test-bot](https://github.com/openkhmerfonts/homebrew-tap/actions/workflows/tests.yml/badge.svg)](https://github.com/openkhmerfonts/homebrew-tap/actions/workflows/tests.yml)
 
 Here is where you can find or submit font Casks for the [Open Khmer Fonts](https://github.com/openkhmerfonts/homebrew-tap) project.
 
@@ -27,7 +27,3 @@ The `openkhmerfonts/homebrew-tap` will only accept fonts which are freely-distri
 ## homebrew-cask-fonts License
 
 Code is under the [BSD 2 Clause (NetBSD) license](LICENSE)
-
-<!-- Variables -->
-[github-ci-brew-url]: https://github.com/openkhmerfonts/homebrew-tap/actions?query=workflow%3A%22Homebrew+Doctor%22
-[github-ci-brew-badge]: https://github.com/openkhmerfonts/homebrew-tap/workflows/Homebrew%20Doctor/badge.svg
