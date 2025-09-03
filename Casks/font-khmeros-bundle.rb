@@ -6,16 +6,16 @@ cask "font-khmeros-bundle" do
   name "KhmerOS Bundle"
   homepage "https://github.com/KhmerSoftwareInitiative"
 
-  font 'fonts/v5.0/KhmerOS.ttf'
-  font 'fonts/v5.0/KhmerOS_battambang.ttf'
-  font 'fonts/v5.0/KhmerOS_bokor.ttf'
-  font 'fonts/v5.0/KhmerOS_content.ttf'
-  font 'fonts/v5.0/KhmerOS_fasthand.ttf'
-  font 'fonts/v5.0/KhmerOS_freehand.ttf'
-  font 'fonts/v5.0/KhmerOS_metalchrieng.ttf'
-  font 'fonts/v5.0/KhmerOS_muol.ttf'
-  font 'fonts/v5.0/KhmerOS_muollight.ttf'
-  font 'fonts/v5.0/KhmerOS_muolpali.ttf'
-  font 'fonts/v5.0/KhmerOS_siemreap.ttf'
-  font 'fonts/v5.0/KhmerOS_sys.ttf'
+  font "fonts/v5.0/KhmerOS_battambang.ttf"
+  font "fonts/v5.0/KhmerOS_bokor.ttf"
+  font "fonts/v5.0/KhmerOS_content.ttf"
+  font "fonts/v5.0/KhmerOS_fasthand.ttf"
+  font "fonts/v5.0/KhmerOS_freehand.ttf"
+  font "fonts/v5.0/KhmerOS_metalchrieng.ttf"
+  font "fonts/v5.0/KhmerOS_muol.ttf"
+  font "fonts/v5.0/KhmerOS_muollight.ttf"
+  font "fonts/v5.0/KhmerOS_muolpali.ttf"
+  font "fonts/v5.0/KhmerOS_siemreap.ttf"
+  font "fonts/v5.0/KhmerOS_sys.ttf"
+  font "fonts/v5.0/KhmerOS.ttf"
 end
